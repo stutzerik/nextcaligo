@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.terminal {
+    color: #fff;
+    background: #151a1f;
+    border-radius: 4px;
+    height: 350px;
+    width: 75%;
+    overflow-y: auto;
+    text-align:justify;
+}
+
+.terminal pre {
+    padding: 24px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 4px;
+  }
+  
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+    border-radius: 4px;
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 4px;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+    border-radius: 4px;
+}
