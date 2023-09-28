@@ -6,4 +6,4 @@ NextCaligo is a VPS infrastructure management system that allows you to deploy a
 </p>
 
 ## Project Overview
-NextCaligo is an open source, free VPS management platform. The aim of the project is to offer a modern, free alternative to the currently used VPS hosting softwares. Most web hosting companies use the same expensive, cumbersome VPS control panel softwares. Imagine a fast interface where you can create VPSs, application containers & high availability (HA) VMs in less than 1 minute with just one click. This is the future and will be the main direction of the project.
+NextCaligo is an open source, free <b>VPS management platform</b>. The aim of the project is to offer a modern, free alternative to the currently used VPS hosting softwares. Most web hosting companies use the same expensive, cumbersome VPS control panel softwares. Imagine a fast interface where you can create VPSs, application containers & high availability (HA) VMs in less than 1 minute with just one click. This is the future and will be the main direction of the project.
