@@ -12,13 +12,13 @@ NextCaligo is an open source, free <b>VPS management platform</b>. The aim of th
 ...and this is just the beginning. Different versions will have different functions.
 
 <table style="border: 0px !important;">
- <tr>
-    <td><b style="font-size:18px;margin-bottom: 12px">VPS deployment</b></td>
+ <tr style="border: 0px !important;">
+    <td style="border: 0px !important;"><b style="font-size:18px;margin-bottom: 12px">VPS deployment</b></td>
     <td><b style="font-size:18px;margin-bottom: 12px">Manage server</b></td>
     <td><b style="font-size:18px;margin-bottom: 12px">Track statistics</b></td>
  </tr>
  <tr>
-    <td>Create your VPS easily with the VPS wizard. You select the operating system, set the IPv4 address, use a slider to select the necessary resources and your VPS is up to date.</td>
+    <td style="border: 0px !important;">Create your VPS easily with the VPS wizard. You select the operating system, set the IPv4 address, use a slider to select the necessary resources and your VPS is up to date.</td>
     <td>Start, stop, restart, change the root password, or even connect to the SSH client automatically from the web interface.</td>
     <td>You can monitor the use of the VPS resource in real-time from the interface: CPU, RAM, Disk Read/Write & Bandwidth usage.</td>
  </tr>
