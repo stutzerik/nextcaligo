@@ -115,16 +115,35 @@ The most viable way is to install the <i>OpenVZ Linux distribution, then install
   php artisan migrate
   ```
 
-### Done, ready to use! Go to http://localhost or http://<your IP address> in your browser.
+### Done, ready to use! Go to http://localhost or http://Your-IP in your browser.
 <b>Default login details:</b>
 - Email: admin@domain.tld
 - Password: admin
 (Change after first login)
 
+## Further development opportunities
 
-   
+In the future, you will get a permission system, a teamwork option, and an end-user API. In addition to the container-based OpenVZ VPS, 1-Click app containers and XEN virtualization high-availability VMs will come. This version will be available on the project's official website.
 
+## Sources
 
+I used the following libraries, frameworks and technologies for my work: PHP, Laravel, Laravel Breeze, Node, Express, Socket.io, SSH2, MySQL, ReactJS, Material UI 5.13, Material Icons, Bootstrap, Roboto fonts, ApexChart, NPM, Composer, OpenVZ, Axios, Linux - these technologies are not my intellectual products, I just use them for writing code.
+
+<i>All of them are open source - at least that's the version I use - and the comments on internet forums helped a lot in the coding.</i>
+
+I ❤️ Open Source.
+
+## License
+Feel free to use my software, but don't forget to mention the author. In fact, I will be proud if you link to my Github. 
+
+## Let's keep in touch
+
+Would you like to help with the project, or do you simply have a question or comment? Are you interested in continuing the project and the world of VPS and web hosting? Follow me:
+
+hello@nextcaligo.cloud
+<a href="https://nextcaligo.cloud">https://nextcaligo.cloud</a>
+
+Have a nice & pleasant day, wherever you read this!
 
 
 
