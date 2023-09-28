@@ -27,3 +27,23 @@ NextCaligo is an open source, free <b>VPS management platform</b>. The aim of th
 <p align="center">
   <img src="http://nextcaligo.cloud/img/nextcaligo-vps-control-panel.png">
 </p>
+
+## Technology stack
+
+- Virtualization: OpenVZ 7/8
+- Frontend: ReactJS, Material UI + Material Icons, Bootstrap Grid, ApexCharts, Font-Logos, Roboto
+- Backend: PHP, Laravel 10 (with Breeze), NodeJS (Socket.io, Express)
+- Database engine: MySQL
+- Webserver: Apache2 (with HTACCESS)
+
+## Installation Guide (manual)
+
+The software only runs on CentOS-based systems, since the latest OpenVZ can be operated on them.
+The most viable way is to install the <i>OpenVZ Linux distribution, then install epel-release and then the technologies mentioned above</i>.
+
+1. Install Apache2
+   ```
+   yum -y install httpd && systemctl enable httpd.service
+   ```
+
+
