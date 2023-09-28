@@ -103,8 +103,11 @@ The most viable way is to install the <i>OpenVZ Linux distribution, then install
 7. Enable NextCaligo
   ```
   cd /var/nextcaligo
+  npm install
   npm run build
   npm run dev # Then Ctrl + V
+  composer install
+  cd nodejs && npm install && npm run build && node server.js && cd ..
    ```
 
   Rename <b>env.example to .env</b>, and fill with MySQL login details (MySQL username, password, and for DATABASE_NAME write nextcaligo)!
@@ -113,6 +116,10 @@ The most viable way is to install the <i>OpenVZ Linux distribution, then install
   ```
 
 ### Done, ready to use! Go to http://localhost or http://<your IP address> in your browser.
+<b>Default login details:</b>
+- Email: admin@domain.tld
+- Password: admin
+(Change after first login)
 
 
    
