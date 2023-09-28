@@ -11,7 +11,7 @@ NextCaligo is an open source, free <b>VPS management platform</b>. The aim of th
 ## Software Functions
 ...and this is just the beginning. Different versions will have different functions.
 
-<table border="0">
+<table style="border: 0px !important;">
  <tr>
     <td><b style="font-size:18px;margin-bottom: 12px">VPS deployment</b></td>
     <td><b style="font-size:18px;margin-bottom: 12px">Manage server</b></td>
