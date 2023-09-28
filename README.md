@@ -138,9 +138,9 @@ Feel free to use my software, but don't forget to mention the author. In fact, I
 
 ## Let's keep in touch
 
-Would you like to help with the project, or do you simply have a question or comment? Are you interested in continuing the project and the world of VPS and web hosting? Follow me:
+Would you like to help with the project, or do you simply have a question or comment? Are you interested in continuing the project and the world of VPSs and webhosting? Follow me:
 
-hello@nextcaligo.cloud
+hello@nextcaligo.cloud <br>
 <a href="https://nextcaligo.cloud">https://nextcaligo.cloud</a>
 
 Have a nice & pleasant day, wherever you read this!
