@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NextCaligo VPS manager - GitHub">
+    <meta name="keywords" content="VPS, Linux VPS, VPS Platform, Container Platform, Hosting, Control Panel, Stütz Erik">
+    <meta name="author" content="Stütz Erik">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 Week">
+    <meta name="distribution" content="local">
+    <meta name="rating" content="general">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css">
+</head>
+<body>
 # NextCaligo VPS IaaS Platform
 NextCaligo is a VPS infrastructure management system that allows you to deploy and manage Linux containers from a web interface. Create your own VPS in less than a minute &amp; monitor your VPS or access it live SSH console! VPS management made easy!
 
@@ -145,5 +161,6 @@ hello@nextcaligo.cloud <br>
 
 Have a nice & pleasant day, wherever you read this!
 
-
+</body>
+</html>
 
