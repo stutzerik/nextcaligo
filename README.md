@@ -145,7 +145,7 @@ In the future, you will get a permission system, a teamwork option, and an end-u
 
 ## Sources
 
-I used the following libraries, frameworks and technologies for my work: PHP, Laravel, Laravel Breeze, Node, Express, Socket.io, SSH2, MySQL, ReactJS, Material UI 5.13, Material Icons, Bootstrap, Roboto fonts, ApexChart, NPM, Composer, OpenVZ, Axios, Linux - these technologies are not my intellectual products, I just use them for writing code.
+I used the following libraries, frameworks and technologies for my work: PHP, Laravel, Laravel Breeze, Node, Express, Socket.io, SSH2, MySQL, ReactJS, Material UI 5.13, Material Icons, Bootstrap, TailwindCSS, Roboto fonts, ApexChart, NPM, Composer, OpenVZ, Axios, Linux - these technologies are not my intellectual products, I just use them for writing code.
 
 <i>All of them are open source - at least that's the version I use - and the comments on internet forums helped a lot in the coding.</i>
 
