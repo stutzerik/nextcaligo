@@ -77,6 +77,7 @@ The most viable way is to install the <i>OpenVZ Linux distribution, then install
    sudo yum -y install http://rpms.remirepo.net/enterprise/remi-release-7.rpm
    sudo yum-config-manager --enable remi-php82
    sudo yum install php8.2-{bz2,cli,common,curl,intl,mbstring,mysql,zip}
+   sudo usermod -aG wheel apache
    service httpd restart
    ```
 
