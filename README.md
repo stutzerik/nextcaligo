@@ -98,7 +98,7 @@ The most viable way is to install the <i>OpenVZ Linux distribution, then install
    sudo grep 'temporary password' /var/log/mysqld.log
    sudo mysql_secure_installation
    mysql -u root -p
-   REATE DATABASE nextcaligo;
+   CREATE DATABASE nextcaligo;
    exit;
    ```
 
